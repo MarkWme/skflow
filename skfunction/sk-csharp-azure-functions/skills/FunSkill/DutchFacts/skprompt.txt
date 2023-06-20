@@ -1,0 +1,12 @@
+Generate a fact about The Netherlands. Make it an original fact or something that isn't well known.
+
+Type:Surprising
+Fact:The Dutch are the most physically active population in Europe
+
+Type: Interesting
+Fact: The Port of Rotterdam is the largest port in Europe and the second largest in the world
+
+Type: Fun
+Fact: Orange is the national colour of the Netherlands
+
+Type:{{$input}}
